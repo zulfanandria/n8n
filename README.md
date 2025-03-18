@@ -1,8 +1,8 @@
 # Deploy n8n on Render
 
-This template defines a [`render.yaml`](https://github.com/render-examples/n8n/blob/main/render.yaml) file you can use to deploy [n8n](https://n8n.io/) on Render. Click **Use this template** in the upper right to copy this template into your account as a new repo.
+**View full deployment instructions in the [**Render docs**](https://render.com/docs/deploy-n8n).**
 
-View full deployment instructions in the [Render docs](https://render.com/docs/deploy-n8n).
+This template defines a [`render.yaml`](https://github.com/render-examples/n8n/blob/main/render.yaml) file you can use to deploy [n8n](https://n8n.io/) on Render. Click **Use this template** in the upper right to copy this template into your account as a new repo.
 
 The `render.yaml` file defines the following resources:
 
