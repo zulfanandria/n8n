@@ -1,9 +1,10 @@
 services:
   - type: web
     name: n8n
-    env: docker
     plan: free
+    env: docker
     healthCheckPath: /healthz
+    dockerCommand: n8n start
     envVars:
       - key: TZ
         value: Asia/Jakarta
